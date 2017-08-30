@@ -1,0 +1,2 @@
+# vimrc
+fujioka's vimrc.
